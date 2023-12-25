@@ -14,6 +14,6 @@
 </b>
 </ul>
 <div align="center">
-  <img src="./../../JavaScript-pt.1/Desafio/assets/Convert-money-desketop.png" alt="image Currency converter"/>
+  <img src="https://github.com/Brunogitguimaraes/Convert-Money/blob/main/assets/Convert-money-desketop.png?raw=true" alt="image Currency converter"/>
   
 </div>
