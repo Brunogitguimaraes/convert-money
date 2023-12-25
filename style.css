@@ -120,13 +120,19 @@ section{
 
 }
 
-.currency-valeu{
+.currency-value{
+    font-weight: 400;
+    font-size: 14px;
+    width: 105px;
+    height: 18px;
+    color: #777777;
+}
+.currency-to-convert{
     width: 121px;
     height: 18px;
     font-weight: 700;
     font-size: 20px;
     color: #555555;
-
 }
 .currency-usa{
     font-weight: 400;
@@ -135,7 +141,7 @@ section{
     height: 18px;
     color: #777777;
 }
-.currency-valeu-usa{
+.currency-value-usa{
     width: 122px;
     height: 18px;
     font-weight: 700;
