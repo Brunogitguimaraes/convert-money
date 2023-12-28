@@ -8,6 +8,10 @@
     <title>Convert-Money</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <audio
+      class="currency-convert-audio"
+      src="./assets/caixa-registradora.mp3"
+    ></audio>
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
       rel="stylesheet"
@@ -15,13 +19,14 @@
   </head>
 
   <body>
-    <img class="logo-gif" src="./assets/logo.gif" alt="imagem-gif-money" />
+    <img class="background-image" src="./assets/images.jpg" alt="Logo" />
+
     <main>
       <label class="converter-1">
         <b>Converter de</b>
         <select class="convert-currency">
-          <option value="real">R$ Real Brasileiro</option>
-          <option value="dolar">US$ Dólar americano</option>
+          <option value="real-two">R$ Real Brasileiro</option>
+          <option value="dolar-two">US$ Dólar americano</option>
         </select>
       </label>
       <label>
@@ -31,6 +36,7 @@
           <option value="euro">€ Euro</option>
           <option value="libra">£ Libra</option>
           <option value="bitcoin">₿ Bitcoin</option>
+          <option value="real">R$ Real Brasileiro</option>
         </select>
       </label>
       <label>
@@ -46,9 +52,9 @@
             src="./assets/Real.png"
             alt="logo-moeda"
           />
-          <p class="currency-value" id="USA-currency">Real</p>
+          <p class="currency-value" id="currency-value-convert">Real</p>
           <p class="currency-to-convert">R$ 0,00</p>
-          <img class="arrow-img" src="./assets/Arrow.svg" alt="Seta-Img" />
+          <img class="arrow-img" src="./assets/Arrow.png" alt="Seta-Img" />
         </div>
         <div class="currency-box">
           <img class="currency-img" src="./assets/USA.png" alt="logo-USA" />
