@@ -8,11 +8,11 @@ Nesse projeto foi utilizado os softwares vscode e figma para desenvolvimento. E 
 <h1>Tecnologias usadas</h1>
 <ul>
 <b> 
-  <li> Html </li>
+  <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="html-logo"
   <br>
-  <li> CSS </li>
+  <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="css-logo"
     <br>
-  <li> Java Script </li>
+  <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png"
 </b>
 </ul>
 <div align="center">
