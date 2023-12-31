@@ -1,16 +1,18 @@
 <h1>Projeto-Convert-Money</h1>
 <br>
 <br>
-<h2>Esse foi um projeto que eu apreendi no <a href="https://aulas.devclub.com.br/login"/a>DevClub</h2>
+<h2>Esse foi um projeto que eu apreendi no <a href="https://aulas.devclub.com.br/login"/a>DevClub.</h2> 
+  <h2>Onde foi possivel visualizar o conteúdo teorico na prática, usando essa linguagem de programação podemos por interação do usuário no site.
+Nesse projeto foi utilizado os softwares vscode e figma para desenvolvimento. E além disso colocamos a nossa criatividade a prova e também o pensamento logico.</h2>
 <br>
-<h2> Tecnologias usadas</h2>
+<h1>Tecnologias usadas</h1>
 <ul>
 <b> 
-  <li> Html </li>
+  <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="html-logo"
   <br>
-  <li> CSS </li>
+  <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="css-logo"
     <br>
-  <li> Java Script </li>
+  <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png"
 </b>
 </ul>
 <div align="center">
