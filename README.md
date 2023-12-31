@@ -5,7 +5,7 @@
   <h2>Onde foi possivel visualizar o conteúdo teorico na prática, usando essa linguagem de programação podemos por interação do usuário no site.
 Nesse projeto foi utilizado os softwares vscode e figma para desenvolvimento. E além disso colocamos a nossa criatividade a prova e também o pensamento logico.</h2>
 <br
-<h2> Tecnologias usadas</h2>
+<h1> Tecnologias usadas</h1>
 <ul>
 <b> 
   <li> Html </li>
