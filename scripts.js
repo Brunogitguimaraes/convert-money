@@ -17,7 +17,9 @@ function convertValues() {
   const libraToday = 6.13;
   const bitcoinToday = 208495.97;
 
-  const dolarToEuro = 0.9;
+  const dollarToEuro = 0.9;
+  const dollarToLibra = 0.78;
+  const dollarToBitcoin = 0.000024;
 
   currencyValueToConvert.innerHTML = new Intl.NumberFormat("pt-BR", {
     style: "currency",
@@ -92,7 +94,27 @@ function convertValues() {
     currencyValueConverted.innerHTML = new Intl.NumberFormat("de-DE", {
       style: "currency",
       currency: "EUR",
-    }).format(inputCurrencyValue * dolarToEuro);
+    }).format(inputCurrencyValue * dollarToEuro);
+  }
+  if (
+    currencySelectConvert.value == "dolar-two" &&
+    currencySelect.value == "libra"
+  ) {
+    currencyValueConverted.innerHTML = new Intl.NumberFormat("en-GB", {
+      style: "currency",
+      currency: "GBP",
+    }).format(inputCurrencyValue * dollarToLibra);
+  }
+  if (
+    currencySelectConvert.value == "dolar-two" &&
+    currencySelect.value == "bitcoin"
+  ) {
+    currencyValueConverted.innerHTML = new Intl.NumberFormat("de-DE", {
+      style: "currency",
+      currency: "BTC",
+      minimumSignificantDigits: 2,
+      maximumSignificantDigits: 6,
+    }).format(inputCurrencyValue * dollarToBitcoin);
   }
   currencyConversionAudio.play();
 }
