@@ -16,6 +16,6 @@ Nesse projeto foi utilizado os softwares vscode e figma para desenvolvimento. E 
 </b>
 </ul>
 <div align="center">
-  <img src="https://github.com/Brunogitguimaraes/Convert-Money/blob/main/assets/Convert-money-desketop.png?raw=true" alt="image Currency converter"/>
+  <img src="https://github.com/Brunogitguimaraes/Convert-Money/blob/main/assets/projeto-convert-money-desktop.png?raw=true" alt="image Currency converter"/>
   
 </div>
