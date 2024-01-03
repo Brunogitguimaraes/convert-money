@@ -18,7 +18,10 @@
   <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png"
 </b>
 </ul>
-  
+<h1>Desktop</h1>  
 <div align="center">
   <img src="https://github.com/Brunogitguimaraes/Convert-Money/blob/main/assets/projeto-convert-money-desktop.png?raw=true" alt="image Currency converter"/>
 </div>
+<h1>Mobile</h1>
+<div align="center">
+  <img src="https://github.com/Brunogitguimaraes/Convert-Money/blob/main/assets/projeto-convert-money-desktop.png?raw=true" alt="image Currency converter"/>
