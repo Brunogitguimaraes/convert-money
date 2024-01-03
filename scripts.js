@@ -54,6 +54,7 @@ function convertValues() {
       currency: "EUR",
     }).format(inputCurrencyValue / euroToday);
   }
+
   if (currencySelect.value == "libra") {
     currencyValueConverted.innerHTML = new Intl.NumberFormat("en-GB", {
       style: "currency",
