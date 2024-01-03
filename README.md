@@ -24,4 +24,4 @@
 </div>
 <h1>Mobile</h1>
 <div align="center">
-  <img src="https://github.com/Brunogitguimaraes/convert-money/blob/main/assets/Convert-money-mobile.jpeg?raw=true" alt="image Currency converter"/>
+  <img width=200px src="https://github.com/Brunogitguimaraes/convert-money/blob/main/assets/Convert-money-mobile.jpeg?raw=true" alt="image Currency converter"/>
